@@ -1,0 +1,6 @@
+torch>=2.0.0
+numpy
+pandas
+tqdm
+# Note: Ensure you have the official BDH library from the hackathon link 
+# If it's a local repo, include it in your zip.
